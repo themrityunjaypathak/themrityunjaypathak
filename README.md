@@ -83,10 +83,9 @@ If you're looking for someone who's eager to learn, collaborate and deliver resu
 ## Experience
 ### Data Science Intern
 Boston Institute of Analytics
-- Built Random Forest and Gradient Boosting models for churn and forecasting on datasets of 5K to 25K records.
-- Applied hyperparameter tuning and cross-validation to improve generalization on class-imbalanced datasets.
-- Utilized Scikit-learn Pipelines to prevent data leakage and maintain clean, reproducible ML workflows.
-- Improved churn-class precision by 15% through threshold tuning and metric-driven evaluation.
+- Implemented a Gradient Boosting churn prediction model on a dataset of 30K+ records to identify users at high risk of discontinuing service.
+- Engineered a robust ML pipeline to prevent data leakage, ensure reproducibility, and enable precise evaluation on imbalanced data.
+- Improved churn-class precision by 15% through decision threshold tuning, leading to more accurate identification of high-risk users.
 
 ## Projects
 
@@ -171,10 +170,10 @@ Boston Institute of Analytics
 ### Netflix Data Analysis
 <a href="https://github.com/themrityunjaypathak/Netflix-Data-Analysis"><img src="https://github.com/user-attachments/assets/92d6ca72-44fa-4874-8495-f07811dddd60" title="GitHub" width="80px"></a>&nbsp;&nbsp;<a href="https://www.kaggle.com/code/themrityunjaypathak/netflix-data-analysis"><img src="https://github.com/user-attachments/assets/7b33292b-2a68-4af3-ae25-281105385f8d" title="Notebook" width="80px"></a>
 
-➔ Problem Statement
+➔ Problem
 - To analyze Netflix content data, uncovering valuable insights into how the platform evolves over time.
 
-➔ Some Key Findings
+➔ Key Findings
 - Cleaned and analyzed a dataset of 8,000+ Netflix Movies and TV Shows.
 - More than 60% of the content on Netflix is rated for mature audiences.
   - Suggests that Netflix targets adult viewers to boost engagement and retention.
@@ -192,10 +191,10 @@ Boston Institute of Analytics
 ### Supermarket Sales Analysis
 <a href="https://github.com/themrityunjaypathak/Supermarket-Sales-Analysis"><img src="https://github.com/user-attachments/assets/92d6ca72-44fa-4874-8495-f07811dddd60" title="GitHub" width="80px"></a>&nbsp;&nbsp;<a href="https://www.kaggle.com/code/themrityunjaypathak/supermarket-sales-analysis"><img src="https://github.com/user-attachments/assets/7b33292b-2a68-4af3-ae25-281105385f8d" title="Notebook" width="80px"></a>
 
-➔ Problem Statement
+➔ Problem
 - To analyze Supermarket Sales data, identifying key factors for improving profitability and operational efficiency.
 
-➔ Some Key Findings
+➔ Key Findings
 - Analyzed purchasing patterns of 9,000+ customers of a Supermarket.
 - More than 15% of the products sold were Snacks.
   - Shows that Snacks are a convenient choice and a major source of revenue.
