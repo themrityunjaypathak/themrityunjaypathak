@@ -6,26 +6,6 @@
 
 </div>
 
-<div align="center">
- 
-<a href="#about">
-About
-</a>&nbsp;&nbsp;&nbsp;
-<a href="#experience">
-Experience
-</a>&nbsp;&nbsp;&nbsp;
-<a href="#projects">
-Projects
-</a>&nbsp;&nbsp;&nbsp;
-<a href="#certificates">
-Certificates
-</a>&nbsp;&nbsp;&nbsp;
-<a href="#blogs">
-Blogs
-</a>
-
-</div>
-
 <div align="right">
 
 <a href='mailto:themrityunjaypathak@gmail.com' title='Email'>
@@ -79,13 +59,6 @@ If you're looking for someone who's eager to learn, collaborate and deliver resu
 ## Get in Touch
 
 [Kaggle](https://www.kaggle.com/themrityunjaypathak)&nbsp;&nbsp;✦&nbsp;&nbsp;[LinkedIn](https://www.linkedin.com/in/themrityunjaypathak)&nbsp;&nbsp;✦&nbsp;&nbsp;[GitHub](https://github.com/themrityunjaypathak)&nbsp;&nbsp;✦&nbsp;&nbsp;[Medium](https://medium.com/@themrityunjaypathak)&nbsp;&nbsp;✦&nbsp;&nbsp;[Portfolio](https://themrityunjaypathak.github.io/)
-
-## Experience
-### Data Science Intern
-Boston Institute of Analytics
-- Implemented a Gradient Boosting churn prediction model on a dataset of 30K+ records to identify users at high risk of discontinuing service.
-- Engineered a robust ML pipeline to prevent data leakage, ensure reproducibility, and enable precise evaluation on imbalanced data.
-- Improved churn-class precision by 15% through decision threshold tuning, leading to more accurate identification of high-risk users.
 
 ## Projects
 
