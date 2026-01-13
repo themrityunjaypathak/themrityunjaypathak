@@ -26,7 +26,7 @@ I love creating projects that don't just stay in notebooks, but are deployed onl
 
 Projects I've worked on :
 
-- AutoIQ : Car Price Prediction
+- AutoIQ : Used Car Pricing System
   - Built an end-to-end car price prediction system with FastAPI and Docker, trained on 2,800+ records scraped from Cars24.
   - Deployed an interactive HTML/CSS/JS application on GitHub Pages that fetches real-time predictions via the API.
   - Tech Stack : Python, Pandas, BeautifulSoup, Selenium, Scikit-learn, FastAPI, Docker, Git
