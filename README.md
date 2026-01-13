@@ -62,7 +62,7 @@ If you're looking for someone who's eager to learn, collaborate and deliver resu
 
 ## Projects
 
-### AutoIQ : Car Price Prediction 
+### AutoIQ : Used Car Pricing System 
 <a href="https://github.com/themrityunjaypathak/AutoIQ"><img src="https://github.com/user-attachments/assets/92d6ca72-44fa-4874-8495-f07811dddd60" title="GitHub" width="80px"></a>&nbsp;&nbsp;<a href="https://themrityunjaypathak.github.io/AutoIQ/"><img src="https://github.com/user-attachments/assets/5876b6a4-9ab2-48aa-90d3-70117399aff3" title="Application" width="80px"></a>&nbsp;&nbsp;<a href="https://autoiq.onrender.com/docs"><img src="https://github.com/user-attachments/assets/453026e0-6b16-4b24-af29-415de2bc6bf8" title="Swagger UI" width="80px"></a>
 
 ➔ Problem
