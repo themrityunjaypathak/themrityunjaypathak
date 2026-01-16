@@ -112,9 +112,10 @@ If you're looking for someone who's eager to learn, collaborate and deliver resu
 - Top 5 States (CA, NY, TX, PA, OH) contribute ~54% of sales, with CA alone driving ~21%, showing strong regional concentration.
 
 ➔ Impact
-- Reduced daily data update time from hours to under a minute (average ~45 sec) using GitHub Actions.
+- Improved daily data update time from hours to under a minute (average ~45 sec) using GitHub Actions.
+- Reduced reporting time by 80% through automation, delivering updated insights in under a minute.
 - Delivered a reliable, low-latency, fully automated data pipeline with zero manual intervention.
-- Achieved 100% workflow reliability as recorded in the GitHub Actions, with zero pipeline failures since deployment.
+- Achieved 100% workflow reliability, with zero pipeline failures since deployment (as recorded in GitHub Actions).
 
 <hr>
 
