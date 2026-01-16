@@ -32,7 +32,7 @@ Projects I've worked on :
   - Tech Stack : Python, Pandas, BeautifulSoup, Selenium, Scikit-learn, FastAPI, Docker, Git
 - Dashly : Live Sales Dashboard
   - Designed a live Power BI dashboard connected to a Neon PostgreSQL database, containing 50,000+ sales records.
-  - Automated an ETL pipeline with GitHub Actions for daily data refresh to keep the dashboard updated with real-time insights.
+  - Automated an ETL pipeline with GitHub Actions to keep the dashboard updated with real-time insights.
   - Tech Stack : Python, Pandas, SQLAlchemy, PostgreSQL, Power BI, GitHub Actions, Git
 - Pickify : Movie Recommender System
   - Developed a content-based movie recommender system using metadata from 5,000+ movies.
