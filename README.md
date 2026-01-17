@@ -56,8 +56,6 @@ I'm currently seeking opportunities as a Junior Data Scientist or Junior Machine
 
 If you're looking for someone who's eager to learn, collaborate, and build real-world solutions, I'd love to connect.
 
-I'm excited to explore how I can deliver results and add value to your team.
-
 ## Get in Touch
 
 [Kaggle](https://www.kaggle.com/themrityunjaypathak)&nbsp;&nbsp;✦&nbsp;&nbsp;[LinkedIn](https://www.linkedin.com/in/themrityunjaypathak)&nbsp;&nbsp;✦&nbsp;&nbsp;[GitHub](https://github.com/themrityunjaypathak)&nbsp;&nbsp;✦&nbsp;&nbsp;[Medium](https://medium.com/@themrityunjaypathak)&nbsp;&nbsp;✦&nbsp;&nbsp;[Portfolio](https://themrityunjaypathak.github.io/)
