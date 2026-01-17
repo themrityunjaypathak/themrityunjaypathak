@@ -52,9 +52,11 @@ Tools I've worked with :
 - Automation : GitHub Actions
 - Shell Scripting : Bash
 
-I'm currently seeking opportunities as a Junior Data Scientist or a Junior Machine Learning Engineer, where I can contribute to building solutions that create measurable business impact.
+I'm currently seeking opportunities as a Junior Data Scientist or Junior Machine Learning Engineer.
 
-If you're looking for someone who's eager to learn, collaborate and deliver results, I'd love to connect and explore how I can add value to your team.
+If you're looking for someone who's eager to learn, collaborate, and build real-world solutions, I'd love to connect.
+
+I'm excited to explore how I can deliver results and add value to your team.
 
 ## Get in Touch
 
