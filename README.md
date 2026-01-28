@@ -130,7 +130,7 @@ If you're looking for someone who's eager to learn, collaborate, and build real-
 
 ➔ Solution
 - Built a content-based movie recommender system trained on 5,000+ movie metadata records.
-- Generated the top 5 similar titles for any selected movie in under 3 seconds.
+- Generated the top 5 similar titles for any selected movie in under 3 seconds using cosine similarity.
 - Integrated the TMDB API to dynamically fetch and display movie posters, enhancing user experience.
 - Deployed the system as a Streamlit web app, used by 100+ users to discover personalized movie suggestions.
 
