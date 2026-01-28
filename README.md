@@ -27,16 +27,16 @@ I love creating projects that don't just stay in notebooks, but are deployed onl
 Projects I've worked on :
 
 - AutoIQ : Used Car Pricing System
-  - Built an end-to-end car price prediction system with FastAPI and Docker, trained on 2,800+ records scraped from Cars24.
-  - Deployed an interactive HTML/CSS/JS application on GitHub Pages that fetches real-time predictions via the API.
+  - Built an end-to-end car pricing system using FastAPI and Docker, trained on 2,800+ records scraped from Cars24.
+  - Deployed an interactive HTML/CSS/JS web app on GitHub Pages that fetches real-time price via a REST API.
   - Tech Stack : Python, Pandas, BeautifulSoup, Selenium, Scikit-learn, FastAPI, Docker, Git
 - Dashly : Live Sales Dashboard
-  - Designed a live Power BI dashboard connected to a Neon PostgreSQL database, containing 50,000+ sales records.
-  - Automated an ETL pipeline with GitHub Actions to keep the dashboard updated with real-time insights.
+  - Designed a live sales analytics dashboard in Power BI connected to a Neon PostgreSQL database with 50,000+ records.
+  - Automated a daily ETL pipeline using GitHub Actions to ensure the dashboard stays updated with real-time insights.
   - Tech Stack : Python, Pandas, SQLAlchemy, PostgreSQL, Power BI, GitHub Actions, Git
 - Pickify : Movie Recommender System
   - Developed a content-based movie recommender system using metadata from 5,000+ movies.
-  - Integrated the TMDB API to fetch and display movie posters dynamically, for a personalized user experience.
+  - Integrated the TMDB API to fetch and display movie posters, enhancing personalized user experience.
   - Tech Stack : Python, Pandas, Scikit-learn, NLTK, Streamlit, TMDB API, Git 
 
 Tools I've worked with :
