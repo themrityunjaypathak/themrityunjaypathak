@@ -144,10 +144,10 @@ If you're looking for someone who's eager to learn, collaborate, and build real-
 ### Netflix Data Analysis
 <a href="https://github.com/themrityunjaypathak/Netflix-Data-Analysis"><img src="https://github.com/user-attachments/assets/92d6ca72-44fa-4874-8495-f07811dddd60" title="GitHub" width="80px"></a>&nbsp;&nbsp;<a href="https://www.kaggle.com/code/themrityunjaypathak/netflix-data-analysis"><img src="https://github.com/user-attachments/assets/7b33292b-2a68-4af3-ae25-281105385f8d" title="Notebook" width="80px"></a>
 
-➔ Problem
+✦ Problem
 - To analyze Netflix content data, uncovering valuable insights into how the platform evolves over time.
 
-➔ Key Findings
+✦ Key Findings
 - Cleaned and analyzed a dataset of 8,000+ Netflix Movies and TV Shows.
 - More than 60% of the content on Netflix is rated for mature audiences.
   - Suggests that Netflix targets adult viewers to boost engagement and retention.
@@ -165,10 +165,10 @@ If you're looking for someone who's eager to learn, collaborate, and build real-
 ### Supermarket Sales Analysis
 <a href="https://github.com/themrityunjaypathak/Supermarket-Sales-Analysis"><img src="https://github.com/user-attachments/assets/92d6ca72-44fa-4874-8495-f07811dddd60" title="GitHub" width="80px"></a>&nbsp;&nbsp;<a href="https://www.kaggle.com/code/themrityunjaypathak/supermarket-sales-analysis"><img src="https://github.com/user-attachments/assets/7b33292b-2a68-4af3-ae25-281105385f8d" title="Notebook" width="80px"></a>
 
-➔ Problem
+✦ Problem
 - To analyze Supermarket Sales data, identifying key factors for improving profitability and operational efficiency.
 
-➔ Key Findings
+✦ Key Findings
 - Analyzed purchasing patterns of 9,000+ customers of a Supermarket.
 - More than 15% of the products sold were Snacks.
   - Shows that Snacks are a convenient choice and a major source of revenue.
