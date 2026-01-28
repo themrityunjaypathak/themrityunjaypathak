@@ -122,19 +122,19 @@ If you're looking for someone who's eager to learn, collaborate, and build real-
 ### Pickify : Movie Recommender System
 <a href="https://github.com/themrityunjaypathak/Pickify"><img src="https://github.com/user-attachments/assets/92d6ca72-44fa-4874-8495-f07811dddd60" title="GitHub" width="80px"></a>&nbsp;&nbsp;<a href="https://pickify.streamlit.app/"><img src="https://github.com/user-attachments/assets/5876b6a4-9ab2-48aa-90d3-70117399aff3" title="Application" width="80px"></a>
 
-➔ Problem
+✦ Problem
 - With the rise of streaming services, viewers now have access to thousands of movies across platforms.
 - As a result, many viewers spend more time browsing than actually watching.
 - This problem can lead to frustration, lower satisfaction and reduced watch time on the platform.
 - Ultimately, this impacts both user experience and business performance.
 
-➔ Solution
+✦ Solution
 - Built a content-based movie recommender system trained on 5,000+ movie metadata records.
 - Generated the top 5 similar titles for any selected movie in under 3 seconds using cosine similarity.
 - Integrated the TMDB API to dynamically fetch and display movie posters, enhancing user experience.
 - Deployed the system as a Streamlit web app, used by 100+ users to discover personalized movie suggestions.
 
-➔ Impact
+✦ Impact
 - Reduces the time users spend choosing what to watch.
 - Increases user engagement, watch time and satisfaction.
 - Helps retain users by offering more personalized recommendations.
