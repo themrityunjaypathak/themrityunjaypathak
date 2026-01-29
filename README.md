@@ -75,7 +75,7 @@ If you're looking for someone who's eager to learn, collaborate, and build real-
 - Optimized dataset memory usage by 90% through downcasting data types and converting to Parquet format.
 - Trained models with Scikit-learn Pipelines & ColumnTransformer to avoid data leakage.
 - Deployed the machine learning model as an API using FastAPI on Render.
-- Built an HTML/CSS/JS application hosted on GitHub Pages to interact with the API and display predictions in real-time.
+- Built a HTML/CSS/JS frontend hosted on GitHub Pages to interact with the RestAPI and display predictions in real-time.
 - Containerized the entire application using Docker and pushed to Docker Hub for reproducibility.
 
 ✦ Impact
