@@ -65,11 +65,11 @@ If you're looking for someone who's eager to learn, collaborate, and build real-
 ### AutoIQ : Used Car Pricing System 
 <a href="https://github.com/themrityunjaypathak/AutoIQ"><img src="https://github.com/user-attachments/assets/92d6ca72-44fa-4874-8495-f07811dddd60" title="GitHub" width="80px"></a>&nbsp;&nbsp;<a href="https://themrityunjaypathak.github.io/AutoIQ/"><img src="https://github.com/user-attachments/assets/5876b6a4-9ab2-48aa-90d3-70117399aff3" title="Application" width="80px"></a>&nbsp;&nbsp;<a href="https://autoiq.onrender.com/docs"><img src="https://github.com/user-attachments/assets/453026e0-6b16-4b24-af29-415de2bc6bf8" title="Swagger UI" width="80px"></a>
 
-➔ Problem
+✦ Problem
 - In the used car market, buyers and sellers often struggle to determine a fair price for their vehicles.
 - This project aims to provide an accurate and transparent pricing for used cars by analyzing real-world data.
 
-➔ Solution
+✦ Solution
 - Built and deployed an end-to-end machine learning pipeline to predict used car prices from real-world data.
 - Collected and cleaned 2,800+ used car records from Cars24 using Selenium and BeautifulSoup.
 - Optimized dataset memory usage by 90% through downcasting data types and converting to Parquet format.
@@ -78,11 +78,11 @@ If you're looking for someone who's eager to learn, collaborate, and build real-
 - Built an HTML/CSS/JS application hosted on GitHub Pages to interact with the API and display predictions in real-time.
 - Containerized the entire application using Docker and pushed to Docker Hub for reproducibility.
 
-➔ Impact
+✦ Impact
 - Achieved a 30% lower MAE and a 12% higher R2 score compared to the baseline regression model.
 - Reduced prediction error variance by 70%, ensuring more stable and reliable predictions.
 
-➔ Result
+✦ Result
 - Helps car owners quickly find the right selling price for their vehicles based on real-world data.
 - Makes it easier for buyers to know if a car is fairly priced before making a purchase.
 
@@ -91,19 +91,19 @@ If you're looking for someone who's eager to learn, collaborate, and build real-
 ### Dashly : Live Sales Dashboard
 <a href="https://github.com/themrityunjaypathak/Dashly"><img src="https://github.com/user-attachments/assets/92d6ca72-44fa-4874-8495-f07811dddd60" title="GitHub" width="80px"></a>&nbsp;&nbsp;<a href="https://app.powerbi.com/view?r=eyJrIjoiZTgxODBhYmMtYjc1Zi00YjVkLWIyZDItZDYxY2RjZmIwNGY5IiwidCI6ImZhYjAyYzVkLTYxYjYtNGIxMi05ZTY2LTdhMDhkOWY0ZmNjMSJ9&pageName=5b9aaf645951a59cacdc"><img src="https://github.com/user-attachments/assets/97f1694b-8595-40cd-a234-308f143613d4" title="Dashboard" width="80px"></a>
 
-➔ Problem
+✦ Problem
 - Quick Buy is a leading superstore operating across the United States.
 - It manages thousands of product transactions daily across multiple regions.
 - The store's operations relied on manual spreadsheets and SQL queries to track business performance.
 - As a result, decision-making was slowed down and made it harder to identify growth opportunities.
 
-➔ Solution
+✦ Solution
 - Designed a fully automated ETL pipeline using Python, SQLAlchemy and GitHub Actions for seamless daily data updates.
 - Built custom Python ETL scripts to extract, transform and load over 50,000+ sales records into a Neon PostgreSQL database.
 - Automated daily data generation (~100 new transactions daily) to simulate real-time sales activity.
 - Integrated Power BI directly with the database, enabling real-time auto-refreshing dashboard without manual updates.
 
-➔ Key Insights
+✦ Key Insights
 - Standard Class accounts for ~60% of sales (~₹5.1M) and profit (~₹897K), making it the most profitable shipping mode.
 - Consumer Segment generates ~50% of revenue (~₹4.26M) and profit (~₹757K), highlighting it as the primary customer base.
 - Q4 (Oct–Dec) contributes ~27% of annual revenue, indicating strong seasonal demand, ideal for marketing and promotions.
@@ -111,7 +111,7 @@ If you're looking for someone who's eager to learn, collaborate, and build real-
 - West and East regions dominate the market with ~58% of total sales, while South region with ~19% shows growth potential.
 - Top 5 States (CA, NY, TX, PA, OH) contribute ~54% of sales, with CA alone driving ~21%, showing strong regional concentration.
 
-➔ Impact
+✦ Impact
 - Improved daily data update time from hours to under a minute (average ~45 sec) using GitHub Actions.
 - Reduced reporting time by 80% through automation, delivering updated insights in under a minute.
 - Delivered a reliable, low-latency, fully automated data pipeline with zero manual intervention.
