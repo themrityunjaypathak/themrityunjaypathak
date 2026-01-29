@@ -98,10 +98,10 @@ If you're looking for someone who's eager to learn, collaborate, and build real-
 - As a result, decision-making was slowed down and made it harder to identify growth opportunities.
 
 ✦ Solution
-- Designed a fully automated ETL pipeline using Python, SQLAlchemy and GitHub Actions for seamless daily data updates.
-- Built custom Python ETL scripts to extract, transform and load over 50,000+ sales records into a Neon PostgreSQL database.
+- Designed a fully automated ETL pipeline using Python, SQLAlchemy and GitHub Actions for daily data updates.
+- Built Python ETL scripts to extract, transform and load over 50,000+ sales records into a Neon PostgreSQL database.
 - Automated daily data generation (~100 new transactions daily) to simulate real-time sales activity.
-- Integrated Power BI directly with the database, enabling real-time auto-refreshing dashboard without manual updates.
+- Integrated Power BI with the database, enabling real-time auto-refreshing dashboard without manual updates.
 
 ✦ Key Insights
 - Standard Class accounts for ~60% of sales (~₹5.1M) and profit (~₹897K), making it the most profitable shipping mode.
