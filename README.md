@@ -28,7 +28,7 @@ Projects I've worked on :
 
 - AutoIQ : Used Car Pricing System
   - Built an end-to-end car pricing system using FastAPI and Docker, trained on 2,800+ records scraped from Cars24.
-  - Deployed an interactive HTML/CSS/JS web app on GitHub Pages that fetches real-time price via a REST API.
+  - Deployed an interactive HTML/CSS/JS frontend on GitHub Pages that fetches real-time predictions via a RestAPI.
   - Tech Stack : Python, Pandas, BeautifulSoup, Selenium, Scikit-learn, FastAPI, Docker, Git
 - Dashly : Live Sales Dashboard
   - Designed a live sales analytics dashboard in Power BI connected to a Neon PostgreSQL database with 50,000+ records.
