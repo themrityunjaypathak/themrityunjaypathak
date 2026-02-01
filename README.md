@@ -2,7 +2,7 @@
 
 <div align='right'>
 
-[Email](mailto:themrityunjaypathak@gmail.com)&nbsp;|&nbsp;[Resume](https://drive.google.com/file/d/1YT8LPk5UlwdnV5xH1st-Pl2OEf-mfE6m/view?usp=sharing)&nbsp;|&nbsp;[Portfolio](https://themrityunjaypathak.github.io/)
+[Email](mailto:themrityunjaypathak@gmail.com)&nbsp;•&nbsp;[Resume](https://drive.google.com/file/d/1YT8LPk5UlwdnV5xH1st-Pl2OEf-mfE6m/view?usp=sharing)&nbsp;•&nbsp;[Portfolio](https://themrityunjaypathak.github.io/)
 
 </div>
 
