@@ -12,6 +12,6 @@ I enjoy building real-world, end-to-end data and machine learning systems.
 
 I focus on creating projects that go beyond notebooks and are deployed online where people can actually use them.
 
-Connect with me on : [Kaggle](https://www.kaggle.com/themrityunjaypathak)&nbsp;|&nbsp;[LinkedIn](https://www.linkedin.com/in/themrityunjaypathak)&nbsp;|&nbsp;[Medium](https://medium.com/@themrityunjaypathak)
+Connect with me on : [Kaggle](https://www.kaggle.com/themrityunjaypathak)&nbsp;•&nbsp;[LinkedIn](https://www.linkedin.com/in/themrityunjaypathak)&nbsp;•&nbsp;[Medium](https://medium.com/@themrityunjaypathak)
 
 </strong>
