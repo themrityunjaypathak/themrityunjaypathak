@@ -6,11 +6,11 @@
 
 </div>
 
-Hello! My name is Mrityunjay Pathak. I'm a Data Scientist.
+Hi, I'm Mrityunjay Pathak, a Data Scientist.
 
-I enjoy building real-world, end-to-end data and machine learning systems.
+I build and deploy end-to-end data and machine learning systems, turning ideas into real, working products.
 
-I focus on creating projects that go beyond notebooks and are deployed online where people can actually use them.
+I also write about ML, MLOps, and the practical lessons I've learned while building and shipping systems into production.
 
 Connect with me on : [Kaggle](https://www.kaggle.com/themrityunjaypathak)&nbsp;•&nbsp;[LinkedIn](https://www.linkedin.com/in/themrityunjaypathak)&nbsp;•&nbsp;[Medium](https://medium.com/@themrityunjaypathak)
 
