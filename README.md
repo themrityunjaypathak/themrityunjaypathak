@@ -2,7 +2,7 @@
 
 <div align='right'>
 
-[Email](mailto:themrityunjaypathak@gmail.com)&nbsp;✦&nbsp;[Resume](https://drive.google.com/file/d/1YT8LPk5UlwdnV5xH1st-Pl2OEf-mfE6m/view?usp=sharing)&nbsp;✦&nbsp;[Portfolio](https://themrityunjaypathak.github.io/)
+[Email](mailto:themrityunjaypathak@gmail.com)&nbsp;•&nbsp;[Resume](https://drive.google.com/file/d/1YT8LPk5UlwdnV5xH1st-Pl2OEf-mfE6m/view?usp=sharing)&nbsp;•&nbsp;[Portfolio](https://themrityunjaypathak.github.io/)
 
 </div>
 
@@ -12,6 +12,6 @@ I build and deploy end-to-end data and machine learning systems, turning ideas i
 
 I also write about ML, MLOps, and the practical lessons I've learned while building and shipping systems into production.
 
-Connect with me on : [Kaggle](https://www.kaggle.com/themrityunjaypathak)&nbsp;✦&nbsp;[LinkedIn](https://www.linkedin.com/in/themrityunjaypathak)&nbsp;✦&nbsp;[Medium](https://medium.com/@themrityunjaypathak)
+Connect with me on : [Kaggle](https://www.kaggle.com/themrityunjaypathak)&nbsp;•&nbsp;[LinkedIn](https://www.linkedin.com/in/themrityunjaypathak)&nbsp;•&nbsp;[Medium](https://medium.com/@themrityunjaypathak)
 
 </strong>
