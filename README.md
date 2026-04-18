@@ -10,4 +10,6 @@ I also write about ML, MLOps, and the practical lessons I've learned while build
 
 You can explore more of my work on [LinkedIn](https://www.linkedin.com/in/themrityunjaypathak).
 
+Reach out to me at : [themrityunjaypathak@gmail.com](mailto:themrityunjaypathak@gmail.com)
+
 </strong>
