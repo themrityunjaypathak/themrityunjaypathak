@@ -4,7 +4,7 @@ Hi, I'm [Mrityunjay Pathak](https://themrityunjaypathak.github.io), a Data Scien
 
 I build and deploy end-to-end data and machine learning systems, turning ideas into production-ready solutions.
 
-My work includes projects like [ChurnLabs](https://github.com/themrityunjaypathak/ChurnLabs), [AutoIQ](https://github.com/themrityunjaypathak/AutoIQ), [Dashly](https://github.com/themrityunjaypathak/Dashly), and [Pickify](https://github.com/themrityunjaypathak/Pickify), tackling real-world problems.
+My work includes projects like [ChurnLabs](https://github.com/themrityunjaypathak/ChurnLabs), [AutoIQ](https://github.com/themrityunjaypathak/AutoIQ), [Dashly](https://github.com/themrityunjaypathak/Dashly), and [Pickify](https://github.com/themrityunjaypathak/Pickify), focused on solving real-world problems.
 
 I also write about ML, MLOps, and practical lessons from building and shipping systems to production.
 
