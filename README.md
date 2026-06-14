@@ -8,6 +8,6 @@ My work includes [ChurnLabs](https://github.com/themrityunjaypathak/ChurnLabs), 
 
 I also write on [LinkedIn](https://www.linkedin.com/in/themrityunjaypathak) about ML, MLOps, and the practical lessons from building and shipping to production.
 
-Reach out to me at: [themrityunjaypathak@gmail.com](mailto:themrityunjaypathak@gmail.com)
+Reach out to me at : [themrityunjaypathak@gmail.com](mailto:themrityunjaypathak@gmail.com)
 
 </strong>
